@@ -61,4 +61,22 @@ DC모터 1개, 모터 드라이브 1개, 아두이노 1개, 릴레이 모듈 1�
 <img width="332" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/7d130bfa-45e1-4cc0-866d-32078887311f">
 
 ### 수면 적정 조도보다 높거나 낮아질 경우
+#### 초기
+<img width="305" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/35ed07c1-a74f-4abc-83e0-3b2ba7638386">
+
+#### 적정 조도보다 높아졌을 경우
+조도가 높아짐에 따라 무드등 밝기가 낮아졌다.<br>
+<img width="302" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/0ca555ad-3516-42b2-8d6c-8f76fa584402">
+
+#### 적정 조도보다 낮아졌을 경우
+조도가 낮아짐에 따라 무드등 밝기가 높아졌다.<br>
+<img width="311" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/51302e13-7d2b-4cfc-a44a-2890826a3eb3">
+
 ### 수면 적정 온도보다 높아질 경우
+#### 초기
+<img width="267" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/ac49b5f4-18cc-4532-b9be-524bdaeb8400">
+
+#### 적정 온도보다 높아질 경우
+온도가 높아짐에 따라 선풍기가 가동되었다.<br>
+<img width="271" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/df64b640-067d-42cb-990c-4242d9cc7c2e">
+
