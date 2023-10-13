@@ -12,6 +12,7 @@
 <img width="491" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/6d9bcb60-5d1a-493c-9830-e6939b808a3c">
 
 ## 하드웨어 구성
-![image](https://github.com/gesal03/HelpSleep/assets/77336664/09c7ddaa-6a47-4469-b552-1d737938f086)
+![image](https://github.com/gesal03/HelpSleep/assets/77336664/666e5be0-4183-4755-80e6-c01f6f61c752)
+
 
 ## 관련 이미지
