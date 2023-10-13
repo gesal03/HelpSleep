@@ -13,7 +13,7 @@
 
 ## 하드웨어 구성
 라즈베리 파이와 PC, LED 5개, 초음파 센서 1개, 조도 센서 1개, 스위치 1개, 블루투스 스피커 1개, <br>
-DC모터 1개, 모터 드라이브 1개, 아두이노 1개, 릴레이 모듈 1개, 가습기 모듈 1개를 사용한다.<br>
+DC모터 1개, 모터 드라이브 1개, 아두이노 1개, 릴레이 모듈 1개, 가습기 모듈 1개를 사용한다.<br><br>
 ![image](https://github.com/gesal03/HelpSleep/assets/77336664/59af8228-06e2-4672-8b54-eaa8aebe303b)
 <img width="388" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/ca213cb6-2d0f-4fda-95bf-c697eaf6fe53">
 
