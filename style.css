@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+
+* {
+    font-family: 'Oswald';
+}
+/* main_box */
+.main_box{
+    width: 700px;
+    margin: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+}
+
+/* title */
+.titleDiv {
+    padding: 30px;
+    text-align: center;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+}
+.titleText{
+    font-size: 15px;
+    font-weight: bold;
+    color: gray;
+}
+h1 {
+    font-size: 75px;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0;
+}
+h3 {
+    margin: 5px;
+}
+/* 박스 분할 */
+.parent {
+    display: flex;
+}
+.child {
+    text-align: center;
+    width: 50%;
+    height: 150px;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    padding-bottom: 110px;
+}
+
+.show {
+    overflow: scroll;
+    height: 220px;
+    background-color : lightgray;
+}
