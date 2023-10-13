@@ -12,21 +12,6 @@
 <img width="491" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/6d9bcb60-5d1a-493c-9830-e6939b808a3c">
 
 ## 하드웨어 구성
-하드웨어|라즈베리파이
-LED	GPIO6
-초음파 센서	Trig = GPIO 20,  Echo = GPIO16
-온습도 센서	SCL1, SDA1
-조도 센서	MCP3202 사용(SPIMOSI, SPOIMISO, SPISCLK, SPICEO)
-스위치	GPIO21
-블루투스 스피커	라즈베리파이 내 블루투스
-아두이노	USB 단자
-DC모터	GPIO5
-모터 드라이브		GPIO26
-
-하드웨어	아두이노
-릴레이	아두이노 2번 핀
-가습기 모듈	릴레이 모듈에 연결
-
 ![image](https://github.com/gesal03/HelpSleep/assets/77336664/09c7ddaa-6a47-4469-b552-1d737938f086)
 
 ## 관련 이미지
