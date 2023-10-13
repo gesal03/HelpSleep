@@ -13,6 +13,8 @@
 
 ## 하드웨어 구성
 ![image](https://github.com/gesal03/HelpSleep/assets/77336664/59af8228-06e2-4672-8b54-eaa8aebe303b)
+<img width="388" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/ca213cb6-2d0f-4fda-95bf-c697eaf6fe53">
+
 
 
 
