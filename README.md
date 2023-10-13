@@ -27,7 +27,8 @@ DC모터	GPIO5
 릴레이	아두이노 2번 핀
 가습기 모듈	릴레이 모듈에 연결
 
-![Uploading image.png…]()
+![image](https://github.com/gesal03/HelpSleep/assets/77336664/80872264-5b88-49c8-9bf6-48163470773c)
+
 
 ![image](https://github.com/gesal03/HelpSleep/assets/77336664/666e5be0-4183-4755-80e6-c01f6f61c752)
 
