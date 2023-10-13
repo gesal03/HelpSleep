@@ -51,6 +51,14 @@ DC모터 1개, 모터 드라이브 1개, 아두이노 1개, 릴레이 모듈 1�
 <img width="270" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/a22f9687-85e1-4e03-8270-9a31a4475162">
 
 ### 침대 가장 자리 접근
+침대 가장 자리에 사람(본 이미지에서는 상자로 대체)이 접근하면 블루투스 스피커를 통해 경고음 출력.<br>
+<img width="524" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/f40f0cd4-5018-4a4e-a035-13c6f6efdc30">
+
 ### 수면 적정 습도보다 높아질 경우
+1.	초기 가습기는 가동되고 있다.(좌)<br>
+2.	실내 습도가 적정 습도를 넘어서게 된다면 가습기 가동이 중지된다.(우)<br>
+<img width="328" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/709809e9-ba9b-4436-9a68-283a6635fbf3">
+<img width="332" alt="image" src="https://github.com/gesal03/HelpSleep/assets/77336664/7d130bfa-45e1-4cc0-866d-32078887311f">
+
 ### 수면 적정 조도보다 높거나 낮아질 경우
 ### 수면 적정 온도보다 높아질 경우
